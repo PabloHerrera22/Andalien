@@ -129,8 +129,8 @@ class contenido_menu {
 
             <p>
                 El río Andalién es un curso de agua ubicado en la región del Biobío. 
-                Forma parte de la cuenca hidrográfica que desemboca en la Bahía de Concepción 
-                y es un punto clave para el monitoreo y análisis de calidad hídrica, ya que atravieza por 
+                Forma parte de la cuenca hidrográfica.
+                Y es un punto clave para el monitoreo y análisis de calidad hídrica, ya que atravieza por 
                 zonas urbanas, forestales, industriales hasta llegar a su desembocadura en la Bahía de Penco.
             </p>
         </section>
@@ -246,3 +246,4 @@ class Cargar_Diagramas {
 
     }
 }
+
